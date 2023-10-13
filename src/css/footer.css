@@ -1,0 +1,27 @@
+ul li {
+    list-style: none;
+}
+ul li a{
+    text-decoration: none;
+    color: black;
+}
+.fa-brands{
+    background-color: #ffff;
+}
+.fa-brands:hover,.fa-brands-active{
+    background: #FC354C;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #0ABFBC, #FC354C);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #0ABFBC, #FC354C); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    cursor: pointer;
+}
+h3{
+   color: black; 
+    font-size: 30px;
+   font-weight: 700;
+   letter-spacing: 1px;
+}
+h4{
+    color: black;
+    font-weight: 700;
+}
