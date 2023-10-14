@@ -1,0 +1,32 @@
+.card_background{
+    background-image: url('../images/Rectangle\ 164.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.card_left_corner{
+    background-image: url('../images/Group\ 42.png');
+    background-repeat: no-repeat;
+    background-position:50px;
+    background-size:300px;
+    
+   
+    
+}
+.card_right_top{
+    background-image: url('../images/Group\ 42\ \(1\).png');
+    background-repeat: no-repeat;
+    background-size:200px;
+    background-position: right;
+    
+}
+.telegram_logo{
+    position: absolute;
+    top: -30px;
+    left: 20px;
+}
+.plus_logo{
+    position: absolute;
+    top:220px;
+    left:60px;
+}
