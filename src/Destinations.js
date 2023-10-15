@@ -33,7 +33,7 @@ function Destinations() {
                                 </div>
                         </div>
                     </div>
-                    <div className='col-122 col-lg-4 col-md-4 col-sm-12'>
+                    <div className='col-12 col-lg-4 col-md-4 col-sm-12'>
                     <div class="card card_item position-relative" style={{border:'none',borderRadius:'25px 25px 25px 25px' ,outline:'none' ,width:'90%',height:'350px',boxShadow: 'rgba(149, 157, 165, 0.2) 0px 40px 24px'}}>
                             <img class="card-img-top" src={img1} alt=""/>
                                 <div class="card-body pt-4 position-absolute w-100 " style={{top:'271px',backgroundColor:'#ffff',borderRadius:'0px 0px 20px 20px'}} >

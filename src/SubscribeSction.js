@@ -13,7 +13,7 @@ function SubscribeSction() {
                 <div className='card_background' style={{ height: '300px', border: 'none' }}>
                     <div className='card_right_top'>
                         <div className='d-flex justify-content-between'>
-                            <h4 className='text-center mx-auto' style={{ color: 'gray',marginTop:'65px',background:'transparent'}}>Subscribe to get information, latest news and other <br /> interesting offers about jadoo </h4>
+                            <h4 className='text-center mx-auto h4' style={{ color: 'gray',marginTop:'65px',background:'transparent'}}>Subscribe to get information, latest news and other <br /> interesting offers about jadoo </h4>
                         </div>
                         <div className='card_left_corner' style={{ height: '170px', paddingTop: '40px'}}>
                             <div className=''>
@@ -29,10 +29,12 @@ function SubscribeSction() {
                         </div>
                     </div>
                 </div>
-
-                <div className='plus_logo w-100 d-flex justify-content-end '>
-                    <img src={group5} alt='' height={'130px'} />
+                <div className='d-none d-md-block'>
+                    <div className='plus_logo w-100 d-flex justify-content-end '>
+                        <img src={group5} alt='' height={'130px'} />
+                    </div>
                 </div>
+                
 
             </div>
         </div>

@@ -8,21 +8,21 @@ import image31 from './images/image 31.png'
 
 function Partners() {
   return (
-    <div className='container w-75 my-2 '>
-        <div className='container d-flex justify-content-between align-items-center'>
-            <div className='options'>
+    <div className='container w-75 my-2'>
+        <div className='container row d-flex justify-content-between align-items-center'>
+            <div className='options d-flex justify-content-center  col-12 col-lg-2'>
                 <img className='options_img'  src={image27} alt='axon'/>
             </div>
-            <div className='options'>
+            <div className='options d-flex justify-content-center col-12 col-lg-2'>
                 <img className='options_img' src={image28} alt='axon'/>
             </div>
-            <div className='options'>
+            <div className='options d-flex justify-content-center col-12 col-lg-2'>
                 <img className='options_img' src={image29} alt='axon'/>
             </div>
-            <div className='options'>
+            <div className='options d-flex justify-content-center col-12 col-lg-2'>
                 <img className='options_img' style={{padding:'30px 0px'}} src={image30} alt='axon'/>
             </div>
-            <div className='options' >
+            <div className='options d-flex justify-content-center col-12 col-lg-2' >
                 <img className='options_img' style={{padding:'30px 0px'}} src={image31} alt='axon'/>
             </div>
         </div>

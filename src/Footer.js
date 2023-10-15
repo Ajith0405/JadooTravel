@@ -18,7 +18,7 @@ function Footer() {
                         </div>
 
                     </div>
-                    <div className='col-12 col-lg-2 col-sm-2 col-md-2'>
+                    <div className='col-12 col-lg-2 col-sm-2 col-md-2 mx-auto'  >
 
                         <ul>
                             <h4>Company</h4>
@@ -33,7 +33,7 @@ function Footer() {
                             </li>
                         </ul>
                     </div>
-                    <div className='col-12 col-lg-2 col-sm-2 col-md-2'>
+                    <div className='col-12 col-lg-2 col-sm-2 col-md-2 mx-auto' >
 
                         <ul>
                             <h4>Contact</h4>
@@ -48,7 +48,7 @@ function Footer() {
                             </li>
                         </ul>
                     </div>
-                    <div className='col-12 col-lg-2 col-sm-2 col-md-2'>
+                    <div className='col-12 col-lg-2 col-sm-2 col-md-2 mx-auto' >
 
                         <ul>
                             <h4>More</h4>
@@ -63,7 +63,7 @@ function Footer() {
                             </li>
                         </ul>
                     </div>
-                    <div className='col-12 col-lg-3 col-sm-2 col-md-3'>
+                    <div className='col-12 col-lg-3 col-sm-2 col-md-3 mx-auto'>
                         <div className='mt-2 text-center'>
                             <i className="fa-brands fa-facebook-f me-2" style={{ padding: '15px', borderRadius: '50%', color: 'black', boxShadow: 'rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px' }}></i>
                             <i className="fa-brands fa-instagram me-2 fa-brands-active" style={{ padding: '15px', borderRadius: '50%', color: 'black', boxShadow: 'rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px' }} ></i>
